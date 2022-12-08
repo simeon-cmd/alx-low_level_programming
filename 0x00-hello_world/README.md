@@ -1,1 +1,1 @@
-c is cool
+compiling well
