@@ -7,19 +7,19 @@
 int main(void)
 {
 	int a;
-	log into b;
-	log into c;
+	log int b;
+	log int c;
 	char d;
 	float f;
 	printf("Size of a char: %lu byte(s)
-\n" ,(unsigned long)sizeof(d));
+\n", (unsigned long)sizeof(d));
 	printf("Size of an int: %lu byte(s)
-\n" ,(unsigned long)sizeof(a));
+\n", (unsigned long)sizeof(a));
 	printf("Size of a long int: %lu byte(s)
-\n" ,(unsigned long)sizeof(b));
+\n", (unsigned long)sizeof(b));
 	printf("Size of a long long int: %lu byte(s)
-\n" ,(unsigned long)sizeof(c));
+\n", (unsigned long)sizeof(c));
 	printf("Size of a float: %lu byte(s)
-\n" ,(unsigned long)sizeof(f));
+\n", (unsigned long)sizeof(f));
 	return (0);
 }
